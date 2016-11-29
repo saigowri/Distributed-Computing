@@ -1,35 +1,3 @@
-Attachment dm report.doc successfully uploaded and added.
-Conversation opened. 2 messages. All messages read.
-
-Skip to content
-Using Gmail with screen readers
-25 of 1,914
- 
-dc 10
-Inbox
-	x
-Abhigna Reddy		AttachmentsNov 27 (3 days ago)
-to run: 1) gcc -pthread -o mutex mutex.c 2)./mutex 3) gcc -pthread -o join jo...
-Sai Gowri Kumar <saigowri.kumar@gmail.com>
-	
-AttachmentsNov 27 (3 days ago)
-	
-to Rajesh
-2 Attachments
-	
-Click here to Reply or Forward
-2.08 GB (1%) of 115 GB used
-Manage
-Terms - Privacy
-Last account activity: 6 minutes ago
-Open in 1 other location  Details
-	
-	
-More
-Abhigna Reddy's profile photo
-	Abhigna Reddy
-Show details
-
 #include <stdio.h>
 #include <pthread.h>
 #define NTHREADS 10
