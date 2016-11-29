@@ -1,3 +1,10 @@
+to run:
+1) gcc -pthread -o mutex mutex.c
+2)./mutex
+3) gcc -pthread -o join join.c
+4)./join
+
+
 #include <stdio.h>
 #include <pthread.h>
 #define NTHREADS 10
