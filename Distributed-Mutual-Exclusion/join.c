@@ -28,3 +28,4 @@ pthread_mutex_lock( &mutex1 );
 counter++;
 pthread_mutex_unlock( &mutex1 );
 }
+
